@@ -95,4 +95,4 @@ Real-time data collection from IoT-based air sensors.
 👩‍💻 Author
 
 Developed by B THARUN REDDY
-📧 Contact: your.email@example.com
+📧 Contact: btharunr358@gmail.com
